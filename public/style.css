@@ -95,7 +95,7 @@ footer {
   font-family: Work Sans;
   font-size: 22px;
   font-weight: 600;
-  line-height: 0.77;
+  line-height: 1;
   text-align: center;
   padding-top: 5px;
 }
@@ -112,6 +112,7 @@ footer {
 .sectiontitle {
   width: 300px;
   align-items: center;
+  margin: 20px;
 }
 
 .sectiontitle h2 {
@@ -125,7 +126,7 @@ footer {
 
 #places {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   min-height: 250px;
 }
 
