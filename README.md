@@ -39,7 +39,7 @@ Version 1.0 
 
 1. Clone down this repository. You will need node and `npm` installed globally on your machine. 
 
-2. Type 'npm i' to install packages. 
+2. Type `npm i` to install packages. 
 
 3. Run/open index.html in local browser and enjoy
 
