@@ -41,7 +41,7 @@ Version 1.0 
 
 2. Type `npm i` to install packages. 
 
-3. Run/open index.html in local browser and enjoy
+3. Run/open index.html in local browser.
 
 
 ## Usage
