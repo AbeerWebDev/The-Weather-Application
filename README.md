@@ -1,5 +1,5 @@
 # Wanderlust
-Link to project deployed with netlify. Live demo [here](https://(https://the-weather-application-project.netlify.app/))
+Link to project deployed with netlify. Live demo [here](https://the-weather-application-project.netlify.app/))
 
 ## Table of Content
 * General Information
